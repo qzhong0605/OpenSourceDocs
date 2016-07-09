@@ -3,13 +3,14 @@ Here would be there many documents about Big Data Open Source, including Hadoop,
 big data system design and reasons that what make them to do like this. Also can you get useful blogs from here.  
 
 ## <a name='toc'>Table of Contents</a>
-  * [Apache Hadoop Distributed File System](#apache-hdfs)
-  * Apache Hadoop MapReduce 
-  * Apache Spark RDD
-  * Apache Spark Streaming
-  * Apache Flink 
-  * Apache HBase
-  * Other Blogs
+  1. [Apache Hadoop Distributed File System](#apache-hdfs)
+  2. Apache Hadoop MapReduce 
+  3. Apache Spark RDD
+  4. Apache Spark Streaming
+  5. Apache Flink 
+  6. Apache HBase
+  7. Other Blogs
  
 ## <a name='apache-hdfs'>Apache Hadoop Distributed File System
-
+  1. [HDFS Federation](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/Federation.html):
+      HDFS has two main layers: one layer is Namespace, the other layer is Block Storage Service.
