@@ -12,5 +12,5 @@ big data system design and reasons that what make them to do like this. Also can
   7. Other Blogs
  
 ## <a name='apache-hdfs'>Apache Hadoop Distributed File System
-  1. [HDFS Federation](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/Federation.html):
-      HDFS has two main layers: one layer is Namespace, the other layer is Block Storage Service.
+  1. [HDFS Federation](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/Federation.html):<br>
+          HDFS has two main layers: one layer is Namespace, the other layer is Block Storage Service. 
